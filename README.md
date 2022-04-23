@@ -1,4 +1,5 @@
 # 💫About Me :
+
 I'm currently working at Ippon Technologies
 
 ## 🌐Socials
@@ -13,6 +14,8 @@ I'm currently working at Ippon Technologies
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tifloz&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://app.daily.dev/Tiflo"><img src="https://api.daily.dev/devcards/8f25aed5c54f4c309dcad3aee64dc1dc.png?r=1go" width="200" alt="Florian's Dev Card"/></a>
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
