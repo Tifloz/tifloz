@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
 I'm currently working at Ippon Technologies
 
@@ -14,11 +14,9 @@ I'm currently working at Ippon Technologies
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tifloz&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-<a href="https://app.daily.dev/Tiflo"><img src="https://api.daily.dev/devcards/8f25aed5c54f4c309dcad3aee64dc1dc.png?r=1go" width="200" alt="Florian's Dev Card"/></a>
-
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
