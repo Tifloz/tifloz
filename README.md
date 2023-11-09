@@ -18,8 +18,5 @@ I'm currently working at Ippon Technologies
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) 
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Tifloz&icon=4&color=4)](https://visitcount.itsvg.in)
